@@ -14,7 +14,7 @@
             "type": "outcome",
             "category": "Alimentação",
             "price": 150,
-            "createdAt": "2024-02-17T23:00:10.410Z"
+            "createdAt": "2024-02-16T23:00:10.410Z"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "type": "outcome",
             "category": "Saúde",
             "price": 130,
-            "createdAt": "2024-01-28T4:00:10.410Z"
+            "createdAt": "2024-01-28T04:00:10.410Z"
         }
     ]
 }
